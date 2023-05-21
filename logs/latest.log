@@ -1,0 +1,106 @@
+[15:12:01] [ServerMain/INFO]: Building unoptimized datafixer
+[15:12:02] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:12:05] [ServerMain/INFO]: Loaded 7 recipes
+[15:12:06] [ServerMain/INFO]: Loaded 1179 advancements
+[15:12:07] [Server thread/INFO]: Starting minecraft server version 1.19
+[15:12:07] [Server thread/INFO]: Loading properties
+[15:12:07] [Server thread/INFO]: Default game type: SURVIVAL
+[15:12:07] [Server thread/INFO]: Generating keypair
+[15:12:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:12:08] [Server thread/INFO]: Using default channel type
+[15:12:08] [Server thread/INFO]: Preparing level "TestWorld"
+[15:12:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:12:12] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:12:12] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:12:12] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:12:12] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:12:12] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:12:12] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:12:12] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:12:12] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:12:13] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:12:13] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[15:12:14] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[15:12:14] [Worker-Main-6/INFO]: Preparing spawn area: 4%
+[15:12:15] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[15:12:15] [Worker-Main-7/INFO]: Preparing spawn area: 5%
+[15:12:16] [Worker-Main-3/INFO]: Preparing spawn area: 8%
+[15:12:16] [Worker-Main-7/INFO]: Preparing spawn area: 10%
+[15:12:17] [Worker-Main-7/INFO]: Preparing spawn area: 10%
+[15:12:17] [Worker-Main-3/INFO]: Preparing spawn area: 10%
+[15:12:18] [Worker-Main-1/INFO]: Preparing spawn area: 11%
+[15:12:18] [Worker-Main-7/INFO]: Preparing spawn area: 19%
+[15:12:19] [Worker-Main-4/INFO]: Preparing spawn area: 22%
+[15:12:19] [Worker-Main-3/INFO]: Preparing spawn area: 22%
+[15:12:20] [Worker-Main-7/INFO]: Preparing spawn area: 22%
+[15:12:20] [Worker-Main-1/INFO]: Preparing spawn area: 24%
+[15:12:21] [Worker-Main-5/INFO]: Preparing spawn area: 44%
+[15:12:21] [Worker-Main-6/INFO]: Preparing spawn area: 49%
+[15:12:22] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[15:12:22] [Worker-Main-1/INFO]: Preparing spawn area: 57%
+[15:12:23] [Worker-Main-4/INFO]: Preparing spawn area: 59%
+[15:12:23] [Worker-Main-3/INFO]: Preparing spawn area: 59%
+[15:12:24] [Worker-Main-5/INFO]: Preparing spawn area: 59%
+[15:12:24] [Worker-Main-1/INFO]: Preparing spawn area: 59%
+[15:12:25] [Worker-Main-7/INFO]: Preparing spawn area: 61%
+[15:12:25] [Worker-Main-5/INFO]: Preparing spawn area: 63%
+[15:12:26] [Worker-Main-5/INFO]: Preparing spawn area: 64%
+[15:12:26] [Worker-Main-5/INFO]: Preparing spawn area: 67%
+[15:12:27] [Worker-Main-5/INFO]: Preparing spawn area: 73%
+[15:12:27] [Worker-Main-4/INFO]: Preparing spawn area: 76%
+[15:12:28] [Worker-Main-6/INFO]: Preparing spawn area: 81%
+[15:12:28] [Worker-Main-6/INFO]: Preparing spawn area: 91%
+[15:12:29] [Worker-Main-1/INFO]: Preparing spawn area: 94%
+[15:12:29] [Worker-Main-4/INFO]: Preparing spawn area: 96%
+[15:12:29] [Server thread/INFO]: Time elapsed: 20838 ms
+[15:12:29] [Server thread/INFO]: Done (21.180s)! For help, type "help"
+[15:12:29] [Server thread/INFO]: Starting GS4 status listener
+[15:12:30] [Server thread/INFO]: Thread Query Listener started
+[15:12:30] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[15:16:21] [User Authenticator #1/INFO]: UUID of player jzrlza is 05e37a26-aa6d-44a9-9733-14276d651032
+[15:16:23] [Server thread/INFO]: jzrlza[/192.168.1.104:21126] logged in with entity id 218 at (209.48681261258852, 67.0, -143.40884873004157)
+[15:16:24] [Server thread/INFO]: jzrlza joined the game
+[15:16:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3430ms or 68 ticks behind
+[15:16:52] [Server thread/INFO]: jzrlza has completed the challenge [Cover Me in Debris]
+[15:17:08] [Server thread/INFO]: [jzrlza: Set the time to 1000]
+[15:23:33] [Server thread/INFO]: jzrlza lost connection: Disconnected
+[15:23:33] [Server thread/INFO]: jzrlza left the game
+[15:24:59] [User Authenticator #2/INFO]: UUID of player jzrlza is 05e37a26-aa6d-44a9-9733-14276d651032
+[15:24:59] [Server thread/INFO]: jzrlza[/192.168.1.104:21155] logged in with entity id 1325 at (202.7808808922631, 71.78341742027355, -259.1229559052198)
+[15:24:59] [Server thread/INFO]: jzrlza joined the game
+[15:37:46] [Server thread/INFO]: [jzrlza: Summoned new Villager]
+[15:37:49] [Server thread/INFO]: jzrlza has made the advancement [A Throwaway Joke]
+[15:37:49] [Server thread/INFO]: Villager bss['Villager'/3008, l='ServerLevel[TestWorld]', x=238.78, y=81.36, z=-250.76] was struck by lightning bbe['Lightning Bolt'/3014, l='ServerLevel[TestWorld]', x=238.50, y=81.00, z=-251.50].
+[15:37:49] [Server thread/INFO]: jzrlza has made the advancement [Very Very Frightening]
+[15:40:41] [Server thread/INFO]: jzrlza has completed the challenge [Serious Dedication]
+[15:42:35] [Server thread/INFO]: jzrlza has reached the goal [Sky's the Limit]
+[15:44:09] [Server thread/INFO]: [jzrlza: Summoned new Creeper]
+[15:45:09] [Server thread/INFO]: [jzrlza: Set own game mode to Spectator Mode]
+[15:45:36] [Server thread/INFO]: [jzrlza: Set own game mode to Creative Mode]
+[15:46:20] [Server thread/INFO]: [jzrlza: Set own game mode to Spectator Mode]
+[15:46:25] [Server thread/INFO]: [jzrlza: Set own game mode to Creative Mode]
+[15:47:55] [Server thread/INFO]: [jzrlza: Applied effect Glowing to 220 targets]
+[15:50:08] [Server thread/INFO]: [jzrlza: Summoned new Iron Golem]
+[15:51:13] [Server thread/INFO]: [jzrlza: Summoned new Iron Golem]
+[15:51:15] [Server thread/INFO]: [jzrlza: Summoned new Iron Golem]
+[15:51:15] [Server thread/INFO]: [jzrlza: Summoned new Iron Golem]
+[15:51:17] [Server thread/INFO]: [jzrlza: Summoned new Iron Golem]
+[15:53:32] [Server thread/INFO]: [jzrlza: Summoned new Iron Golem]
+[15:53:32] [Server thread/INFO]: [jzrlza: Summoned new Iron Golem]
+[15:53:33] [Server thread/INFO]: [jzrlza: Summoned new Iron Golem]
+[15:54:34] [Server thread/INFO]: [jzrlza: Gave 1 [Spawner] to jzrlza]
+[15:55:25] [Server thread/INFO]: [jzrlza: Gave 1 [Spawner] to jzrlza]
+[15:55:37] [Server thread/INFO]: [jzrlza: Gave 1 [Command Block] to jzrlza]
+[15:56:06] [Server thread/INFO]: [@: Summoned new Iron Golem]
+[15:57:03] [Server thread/INFO]: [@: Summoned new Iron Golem]
+[15:57:03] [Server thread/INFO]: [@: Summoned new Iron Golem]
+[15:57:32] [Server thread/INFO]: [@: Summoned new Iron Golem]
+[15:57:32] [Server thread/INFO]: [@: Summoned new Iron Golem]
+[15:59:56] [Server thread/INFO]: [@: Summoned new Iron Golem]
+[15:59:56] [Server thread/INFO]: [@: Summoned new Iron Golem]
+[16:00:06] [Server thread/INFO]: [@: Summoned new Iron Golem]
+[16:00:06] [Server thread/INFO]: [@: Summoned new Iron Golem]
+[16:01:06] [Server thread/INFO]: [@: Summoned new Iron Golem]
+[16:01:06] [Server thread/INFO]: [@: Summoned new Iron Golem]
+[16:02:20] [Server thread/INFO]: jzrlza lost connection: Disconnected
+[16:02:20] [Server thread/INFO]: jzrlza left the game
